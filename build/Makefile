@@ -94,6 +94,7 @@ tests = \
   riscv-ooo.vmh\
   riscv-ROBbypass.vmh\
   riscv-WAW.vmh\
+  riscv-IPC.vmh\
 
 riscvlong_rtl_sim = riscvlong-sim
 riscvlong_rtl_rand_sim = riscvlong-randdelay-sim

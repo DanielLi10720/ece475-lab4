@@ -49,4 +49,5 @@ riscv_srcs += \
   riscv-ooo.S\
   riscv-ROBbypass.S\
   riscv-WAW.S\
+  riscv-IPC.S\
 
